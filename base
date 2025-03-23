@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SwauxyYTB/test-part2/refs/heads/main/base"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SwauxyYTB/Swaux-Universal-Menu-R2/refs/heads/main/base"))()
